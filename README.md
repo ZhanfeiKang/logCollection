@@ -23,7 +23,7 @@
 
 ## 2.2 LogAgent工作流程
 
-![LogAgent工作流程](https://gitee.com/kkite/blogimg/raw/master/202204081552326.png)
+![LogAgent工作流程](https://gitee.com/kkite/blogimg/raw/master/202204081725359.png)
 
 ## 2.3 LogTransfer工作流程
 
